@@ -1,3 +1,6 @@
+.github/
+__tests__/
+/autograde.js
 node_modules/*
 config/config.env
 
